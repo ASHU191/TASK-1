@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+
+}
+.box-1{
+ width: 9%;
+height: 600px;
+}
+.box-2{
+    width: 40%;
+    height: 700px;
+}
+.box-3{
+    width: 60%;
+    height: 550px;
+}
